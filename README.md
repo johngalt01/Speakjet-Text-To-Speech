@@ -23,4 +23,6 @@ BRUN is needed to run all the programs.
 
 JETTEXT will play any saved Text to Speech converted file. you can even include Escape code effects.
 
+JETDEMO.TXT is a short demo you can playback with JETTEXT.COM
+
 Update: 09/05/2024
